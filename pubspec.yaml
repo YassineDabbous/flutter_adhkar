@@ -1,0 +1,183 @@
+name: adhkar
+description: A new Flutter project. 
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+  
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+  cupertino_icons: ^1.0.2
+
+
+  permission_handler: ^8.3.0
+  flutter_downloader: ^1.7.2
+
+  # flutter_webview_plugin: ^0.4.0
+
+  # state management  
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+
+  # DI
+  injectable: ^1.5.3
+  get_it: ^7.2.0
+
+ 
+  # flutter_qiblah: ^2.0.2
+  # flutter_svg: ^1.0.3
+  # google_maps_flutter: ^2.1.1
+  # flutter_compass: ^0.7.0
+  # geolocator: ^8.1.1
+  # # find city name by Long/Lat
+  # geocoding: ^2.0.2
+
+
+  # UI Helpers
+  #for quran surah_page
+  sticky_headers: ^0.2.0
+  scrollable_positioned_list: ^0.2.3
+  # responsive ui
+  responsive_builder: ^0.4.1
+  # for counter
+  percent_indicator: ^4.0.0
+  # loading indicator
+  flutter_spinkit: ^5.1.0
+  # for remiders
+  flutter_datetime_picker: ^1.5.1
+  # commun app helper
+  rate_my_app: ^1.1.1+1
+  share_plus: ^3.0.4
+  settings_ui: ^2.0.2
+
+  flutter_widget_from_html: ^0.8.5
+
+  dartz: ^0.10.1
+
+  # network
+  connectivity_plus: ^2.2.0
+  dio: ^4.0.4
+  dio_cache_interceptor: ^3.2.2 #dio_http_cache: ^0.3.0
+  cached_network_image: ^3.2.0
+
+
+  # Persisting Local Data
+  shared_preferences: ^2.0.13	
+  drift: ^1.4.0
+  sqlite3_flutter_libs: ^0.5.0
+  path_provider: null
+  path: null
+
+
+  # vibration 
+  vibration: ^1.7.4-nullsafety.0
+  # notification
+  flutter_local_notifications: ^9.3.0
+  onesignal_flutter: ^3.2.8
+  # media player
+  audioplayers: ^0.20.1
+  
+  
+
+
+  intl: 0.17.0
+  flutter_localizations:
+    sdk: flutter
+
+  # # swip pages
+  # flutter_swiper: 1.1.6
+  # # notifs
+  # onesignal_flutter: 2.6.3
+
+  # #may need
+  # pull_to_refresh: 1.6.4
+  # localstorage: 3.0.6+9
+  # notification_permissions: 0.4.8
+
+  # #herpers 
+  # url_launcher: ^5.4.11
+  # rate_my_app: 0.7.2
+  # #timeago: 2.0.26
+  # share: 2.0.1
+  # #uni_links: 0.4.0
+  # #flutter_html: 1.0.2
+  # flutter_widget_from_html: ^0.5.0+5
+  # #flutter_widget_from_html_core: ^0.5.0+5
+
+  # #drawer animation
+  # #hidden_drawer_menu: 2.0.1
+
+  # #settings
+  # settings_ui: 0.6.0
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+  drift_dev: ^1.4.0
+  build_runner: ^2.1.7
+  # build_runner: null
+  # freezed: null
+  # injectable_generator: ^1.5.3
+
+
+
+# dependency_overrides:
+#   analyzer: ^3.2.0
+
+
+
+  
+
+flutter_intl:
+  main_locale: en_US
+  enabled: true
+  
+flutter:
+  uses-material-design: true 
+  fonts:
+    - family: Uthmanic
+      fonts:
+        - asset: assets/fonts/UthmanicHafs1Ver09.otf
+
+    - family: Indonesia
+      fonts:
+        - asset: assets/fonts/Indonesia.otf
+
+    - family: Basmalah
+      fonts:
+        - asset: assets/fonts/Basmalah.ttf
+
+    - family: LoransMuna
+      fonts:
+        - asset: assets/fonts/LoransMunaBlack.otf
+
+  assets:
+    - assets/images/launch_background.jpg
+
+    - assets/images/ayat2.png
+    - assets/images/top.png
+    - assets/images/left.png
+    - assets/images/right.png
+
+    - assets/images/adhkar/
+
+    - assets/
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+
+
+

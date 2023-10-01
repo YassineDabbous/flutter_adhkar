@@ -1,0 +1,73 @@
+{
+    "@@locale": "ar_TN",
+    "app_name":"أذكار",
+    "app_slogon":"و رقية شرعية",
+    "app_share_message":"تطبيق أذكار المسلم من أفضل التطبيقات الخاصة بالأدعية اليومية للمسلم. رابط التحميل:",
+
+
+    "repeatedTimes": "{repeated,plural, =0{تكرار: ولا مرة}=1{مرة واحدة}=2{مرتان تكرار: }few{{repeated} مرات}many{{repeated} مرات}other{{repeated} مرات}}",
+    "adhkar": "أذكار و أدعية",
+    "counter": "عداد التسابيح",
+    "prayerTimes": "أوقات الصلاة",
+    "quran": "القرآن الكريم",
+    "qibla": "القبلة",
+    "asmaa": "أسماء الله الحسنى",
+    "settings": "الإعدادات",
+    "help": "المساعدة",
+    "introduction": "مقدمة التطبيق",
+
+    "dontForgetAdhkarSalah":"لا تنسى أذكار الصلاة",
+    "prayer_fajr":"صلاة الفجر",
+    "prayer_dhuhr":"صلاة الظهر",
+    "prayer_asr":"صلاة العصر",
+    "prayer_maghreb":"صلاة المغرب",
+    "prayer_isha":"صلاة العشاء",
+    "fajr":"الفجر",
+    "dhuhr":"الظهر",
+    "asr":"العصر",
+    "maghreb":"المغرب",
+    "isha":"العشاء",
+
+    "imsak":"الإمساك",
+    "sunrise":"الشروق",
+    "dhuha":"الضحى",
+    "sunset":"الغروب",
+    "midnight":"منتصف الليل",
+
+
+    "sowar":"السور",
+    "themes":"التصميم",
+
+    "downloads":"مركز التحميل",
+    "grant_storage_permission":"الرجاء منح صلاحية تخزين الملفات للمتابعة",
+    "retry":"إعادة المحاولة",
+    "ready":"جاهز",
+    "canceled":"ملغي",
+    "failed":"فشل",
+    "pending":"قيد الانتظار",
+
+    "waiting":"انتظر",
+
+    "favoris":"المفضلة",
+    
+    "language":"اللغة",
+
+
+    "notifications": "التنبيهات",
+    "notification_prayers": "تنبيهات الصلوات",
+    "notification_dhuha": "صلاة الضحى",
+    "notification_adhkar_sabah": "أذكار الصباح",
+    "notification_adhkar_masaa": "أذكار المساء",
+    "notification_wetr": "الشفع والوتر ",
+    "notification_jumaa": "أذكار الجمعة",
+
+    
+    "empty_adhkar": "لا توجد أذكار في هذا القسم.",
+    "empty_favoris": "لم تقم بإضافة أي ذكر للمفضلة.",
+
+    "loading":"تحميل",
+    
+    "share_app": "نشر التطبيق",
+    "rate_app": "تقييم التطبيق",
+    "general":"عامة"
+}

@@ -1,0 +1,72 @@
+{
+    "@@locale": "en_US",
+    "app_name":"Adhkar",
+    "app_slogon":"& Ruqia",
+    "app_share_message":"ADhkar is one of the best applications for the daily prayers of a Muslim. Download Link:",
+
+
+    "repeatedTimes": "{quantity, plural, one{Repeated One time.} other{Repeated: {repeated} times}}",
+    "adhkar": "Adhkar",
+    "counter": "Counter",
+    "prayerTimes": "Prayer Times",
+    "quran": "Holy Quran",
+    "qibla": "Qibla",
+    "asmaa": "Names of God",
+    "help": "Help",
+    "introduction": "Introduction",
+
+    "dontForgetAdhkarSalah":"Don't forget adhkar salah",
+    "prayer_fajr":"Fajr prayer",
+    "prayer_dhuhr":"Dhuhr  prayer",
+    "prayer_asr":"Asr  prayer",
+    "prayer_maghreb":"Maghreb prayer",
+    "prayer_isha":"Isha prayer",
+    "fajr":"Fajr",
+    "dhuhr":"Dhuhr",
+    "asr":"Asr",
+    "maghreb":"Maghreb",
+    "isha":"Isha",
+
+    "imsak":"Imsak",
+    "sunrise":"Sunrise",
+    "dhuha":"Dhuha",
+    "sunset":"Sunset",
+    "midnight":"Midnight",
+
+
+    "sowar":"Sowar",
+    
+    "downloads":"Downloads",
+    "grant_storage_permission":"Please grant accessing storage permission to continue.",
+    "retry":"Retry",
+    "ready":"Ready",
+    "canceled":"Canceled",
+    "failed":"Failed",
+    "pending":"Pending",
+
+    "favoris":"Favoris",
+
+    "waiting":"waiting",
+    
+    "themes":"Themes",
+    "language":"Language",
+    "settings": "settings",
+
+    "notifications": "Notifications",
+    "notification_prayers": "Prayer notifications",
+    "notification_dhuha": "Salat Dhuha",
+    "notification_adhkar_sabah": "Adhkar sabah",
+    "notification_adhkar_masaa": "Adhkar masaa",
+    "notification_wetr": "Wetr",
+    "notification_jumaa": "jumaa",
+
+    "loading":"Loading",
+
+    "empty_adhkar": "Empty class ☺",
+    "empty_favoris": "There is no bookmarked Dhikr currently",
+
+    "share_app": "Share app",
+    "rate_app": "Rate App",
+    "general":"General"
+
+}
